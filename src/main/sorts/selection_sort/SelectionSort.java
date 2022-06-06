@@ -11,8 +11,7 @@ public class SelectionSort {
             ints[i] = random.nextInt(100);
         }
         System.out.println(Arrays.toString(ints));
-        for (int i = 0; i <  ; i++) {
-
+//        for (int i = 0; i <  ; i++) {
+//
         }
     }
-}
